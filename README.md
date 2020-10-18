@@ -6,3 +6,4 @@ This particular bot gets started with greeting and get to know your name, and th
 ## VIDEO LINK:
 https://youtu.be/FXFekbTUBlM
 ## IMAGE OF BASIC BLOCK DIAGRAM:
+![ML](https://user-images.githubusercontent.com/72853240/96372966-31482180-1187-11eb-8816-bb42038c834e.png)
